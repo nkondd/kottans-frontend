@@ -16,7 +16,7 @@
 <details>
 <summary>Week 2</summary>
 
-![Screenshot-image-link](task_0_git_basics/img/Introduction%20to%20Git%20and%20GitHub%20Week%202.jpg
+![Screenshot-image-link](task_0_git_basics/img/Introduction%20to%20Git%20and%20GitHub%20Week%202.jpg)
 
 </details>
 
@@ -35,6 +35,8 @@
 <summary>Push & Pull</summary>
 
 ![Screenshot-image-link](task_0_git_basics/img/Push%20%26%20Pull.jpg)
+
+</details>
 
 >Learned some new git commands as: git fakeTeamwork.
 
