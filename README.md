@@ -40,3 +40,36 @@
 
 >Learned some new git commands as: git fakeTeamwork.
 
+## 1. Linux CLI, and HTTP
+
+- [x] [Linux Survival (4 modules)](https://linuxsurvival.com/)
+
+<details>
+<summary>Module 1</summary>
+
+![Screenshot-image-link](task_linux_cli/img/Linux_Survival_1_module.jpg)
+
+</details>
+
+<details>
+<summary>Module 2</summary>
+
+![Screenshot-image-link](task_linux_cli/img/Linux_Survival_2_module.jpg)
+
+</details>
+
+<details>
+<summary>Module 3</summary>
+
+![Screenshot-image-link](task_linux_cli/img/Linux_Survival_3_module.jpg)
+
+</details>
+
+<details>
+<summary>Module 4</summary>
+
+![Screenshot-image-link](task_linux_cli/img/Linux_Survival_4_module.jpg)
+
+</details>
+
+>Learned a lot of new commands. The most interesting part of the task for me was the 1st and 2nd module (working with files and directories). But another information was a little boring for me.
