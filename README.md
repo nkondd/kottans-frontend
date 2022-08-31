@@ -113,3 +113,47 @@
 </details>
 
 > Learned more about cherry-pick, rebase, push, pull and fetch.
+
+## 3. Intro to HTML and CSS
+
+- [x] [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
+<details>
+<summary>Week 1</summary>
+
+![Screenshot-image-link](task_html_css_intro/Intro_to_HTML_%26_CSS_Week_1.jpg)
+
+</details>
+
+>I repeated the basics of HTML such as Basic HTML Document Structure, creating links, lists, displaying images.
+
+<details>
+<summary>Week 2</summary>
+
+![Screenshot-image-link](task_html_css_intro/Intro_to_HTML_%26_CSS_Week_2.jpg)
+
+</details>
+
+>Learned more about Pseudo-Class Selectors, Positioning Elements by Floating, Relative and Absolute Element Positioning, Responsive Design, Bootstrap.
+
+- [x] [Learn HTML](https://www.codecademy.com/learn/learn-html)
+
+<details>
+<summary>Learn HTML</summary>
+
+![Screenshot-image-link](task_html_css_intro/Learn_HTML.jpg)
+
+</details>
+
+>Great practice and repetition of HTML. It is more convenient for me to perceive information in the form of text. Therefore, I liked this course more than the previous ones with videos and quizzes.
+
+- [x] [Learn CSS](https://www.codecademy.com/learn/learn-css)
+
+<details>
+<summary>Learn CSS</summary>
+
+![Screenshot-image-link](task_html_css_intro/Learn_CSS.jpg)
+
+</details>
+
+>I really like [Learn HTML](https://www.codecademy.com/learn/learn-html) and [Learn CSS](https://www.codecademy.com/learn/learn-css) Courses. Now HTML and CSS seem much more easier and clearer for me. 
