@@ -157,3 +157,27 @@
 </details>
 
 >I really like [Learn HTML](https://www.codecademy.com/learn/learn-html) and [Learn CSS](https://www.codecademy.com/learn/learn-css) Courses. Now HTML and CSS seem much more easier and clearer for me. 
+
+## 4. Responsive Web Design
+
+- [x] [Flexbox Froggy](http://flexboxfroggy.com/)
+
+<details>
+<summary>Flexbox Froggy</summary>
+
+![Screenshot-image-link](task_responsive_web_design/Flexbox_Froggy.jpg)
+
+</details>
+
+>Nice game for flexbox practice. 
+
+- [x] [Grid Garden](http://cssgridgarden.com/)
+
+<details>
+<summary>Grid Garden</summary>
+
+![Screenshot-image-link](task_responsive_web_design/Grid_Garden.jpg)
+
+</details>
+
+>I like these games. It really helped me with grid and flexbox understanding.
