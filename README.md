@@ -181,3 +181,16 @@
 </details>
 
 >I like these games. It really helped me with grid and flexbox understanding.
+
+## 5. HTML & CSS Practice
+
+### [Demo](https://nkondd.github.io/HTML-CSS-Popup)
+
+### [Code Base](https://github.com/nkondd/HTML-CSS-Popup)
+
+<details>
+<summary>Screenshot</summary>
+
+![Screenshot-image-link](task_html_css_popup/HTML_CSS_Popup.jpg)
+
+</details>
