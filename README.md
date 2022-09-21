@@ -184,9 +184,7 @@
 
 ## 5. HTML & CSS Practice
 
-### [Demo](https://nkondd.github.io/HTML-CSS-Popup)
-
-### [Code Base](https://github.com/nkondd/HTML-CSS-Popup)
+### [Demo](https://nkondd.github.io/HTML-CSS-Popup) | [Code Base](https://github.com/nkondd/HTML-CSS-Popup) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/427)
 
 <details>
 <summary>Screenshot</summary>
@@ -194,3 +192,76 @@
 ![Screenshot-image-link](task_html_css_popup/HTML_CSS_Popup.jpg)
 
 </details>
+
+## 6. JavaScript Basics
+
+- [x] [Introduction to JavaScript](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
+
+<details>
+<summary>Introduction to JavaScript</summary>
+
+![Screenshot-image-link](task_js_basics/Introduction_to_JavaScript.jpg)
+
+</details>
+
+>I learned a lot of new information about JavaScript.
+
+- [x] [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+<details>
+<summary>Basic JavaScript</summary>
+
+![Screenshot-image-link](task_js_basics/Basic_JavaScript.jpg)
+
+</details>
+
+>It was really hard, but now I know more different commands in JS and learn how to use it in practice. 
+
+- [x] [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+
+<details>
+<summary>ES6</summary>
+
+![Screenshot-image-link](task_js_basics/ES6.jpg)
+
+</details>
+
+> I like ES6! This task was easier then previous one.
+
+- [x] [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)
+
+<details>
+<summary>Basic Data Structures</summary>
+
+![Screenshot-image-link](task_js_basics/Basic_Data_Structures.jpg)
+
+</details>
+
+- [x] [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+
+<details>
+<summary>Basic Algorithm Scripting</summary>
+
+![Screenshot-image-link](task_js_basics/Basic_Algorithm_Scripting.jpg)
+
+</details>
+
+- [x] [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
+
+<details>
+<summary>Functional Programming</summary>
+
+![Screenshot-image-link](task_js_basics/Functional_Programming.jpg)
+
+</details>
+
+- [x] [Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+<details>
+<summary>Algorithm Scripting Challenges</summary>
+
+![Screenshot-image-link](task_js_basics/Basic_Algorithm_Scripting.jpg)
+
+</details>
+
+> It was too hard for me, so I used hints regularly. But it was really informative and useful, so now I know much more about JS.
